@@ -1,0 +1,16 @@
+{
+  "name": "tryreact",
+  "version": "1.0.0",
+  "description": "Belajar Otodidiak ReactJS",
+  "keywords": [
+    "tryreact",
+    "trylink",
+    "reactjs"
+  ],
+  "author": "M Ilman Pratama S.P",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
